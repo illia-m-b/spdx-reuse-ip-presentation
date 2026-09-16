@@ -40,7 +40,7 @@ jobs:
           running-workflow-name: 'publish'
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - run: mkdir -p pages
-      - uses: docker://pandoc/core:3.11
+      - uses: docker://pandoc/core:3.11@sha256:62518bfb6833705dc90a1634d8d879299bd820b3f74ad3b32fba8b618452553a
         with:
           args: >-
             -s src/presentation.md
@@ -49,8 +49,8 @@ jobs:
             --embed-resources
             --slide-level=3
             -V theme=white
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
         with:
           path: './pages'
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5
