@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/illia-m-b/spdx-reuse-ip-presentation/compare/v0.3.0...v0.3.1) (2026-09-30)
+
+
+### Bug Fixes
+
+* **slides:** correct typo in "Escape from copyleft" slide ([#22](https://github.com/illia-m-b/spdx-reuse-ip-presentation/issues/22)) ([0805782](https://github.com/illia-m-b/spdx-reuse-ip-presentation/commit/0805782f5a4b4c5724a060b7392548d80ce12d9e))
+
 ## [0.3.0](https://github.com/illia-m-b/spdx-reuse-ip-presentation/compare/v0.2.0...v0.3.0) (2026-09-30)
 
 
