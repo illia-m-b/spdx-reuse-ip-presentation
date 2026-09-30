@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/illia-m-b/spdx-reuse-ip-presentation/compare/v0.1.0...v0.2.0) (2026-09-30)
+
+
+### Features
+
+* **slides:** add copyright problem and present-day challenges ([#16](https://github.com/illia-m-b/spdx-reuse-ip-presentation/issues/16)) ([08177e6](https://github.com/illia-m-b/spdx-reuse-ip-presentation/commit/08177e6d79ec62d29fab3bc205c493b36c6cae38))
+
 ## 0.1.0 (2026-09-16)
 
 
