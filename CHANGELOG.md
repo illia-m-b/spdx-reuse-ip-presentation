@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/illia-m-b/spdx-reuse-ip-presentation/compare/v0.2.0...v0.3.0) (2026-09-30)
+
+
+### Features
+
+* **slides:** refactor FOSS licenses block and add modern trends ([#19](https://github.com/illia-m-b/spdx-reuse-ip-presentation/issues/19)) ([59eb023](https://github.com/illia-m-b/spdx-reuse-ip-presentation/commit/59eb023439a216fdae9193df9b64a41cbd8bf5ab))
+
 ## [0.2.0](https://github.com/illia-m-b/spdx-reuse-ip-presentation/compare/v0.1.0...v0.2.0) (2026-09-30)
 
 
